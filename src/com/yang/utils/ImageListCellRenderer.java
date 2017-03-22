@@ -6,7 +6,8 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * Created by YangShuang on 2017/3/21.
+ * Created by YangShuang
+ * on 2017/3/21.
  */
 public class ImageListCellRenderer implements ListCellRenderer {
 
